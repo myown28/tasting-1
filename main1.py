@@ -1,0 +1,1 @@
+from pratham import * 

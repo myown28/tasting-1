@@ -1,0 +1,3 @@
+from pratham import * 
+
+pratham('pratham')
